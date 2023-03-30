@@ -1,5 +1,7 @@
 #Discord Userbot
 ## How to easily make discord user bot. This will only work with discord.py, so here is a step by step tutorial.
+#DO NOT USE YOUR MAIN ACCOUNT, AS THERE IS A RISK OF BEING BANNED. YOU HAVE BEEN WARNED.
+#I DO NOT TAKE ANY RESPONSIBILITY WHATSOEVER, IF YOUR ACCOUNT GETS BANNED, OR WHAT YOU HAVE DONE WITH THIS INFORMATION.
 
 1. Install python to your computer. I used 3.10.5, but any version of 3.x.x works. https://www.python.org/downloads/
 2. Install discord.py, any version 1.6.0 or before. If your code doesn't work with this, too bad, its the only way. Here is the install command: `pip install discord.py==1.6.0`. Replace `1.6.0` with whatever version you want. 
